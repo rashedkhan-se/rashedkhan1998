@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rashedkhan1998
+- 👋 Hi, I’m @rashedkhan-se
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on N/A
